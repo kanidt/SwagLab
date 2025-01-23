@@ -186,8 +186,12 @@ public class CheckoutInformationPageSwagValidation  extends BaseClass{
 		} catch (Exception e) {
 			System.out.println("error Message:"+e.getMessage());
 			e.printStackTrace();
+			System.out.println("Work in Dev");
+			System.out.println("Work done Dev");
 			System.out.println("work in QA");
 			System.out.println("work Done QA");
+
+			
 		}
 		
 	}
