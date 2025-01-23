@@ -188,6 +188,10 @@ public class CheckoutInformationPageSwagValidation  extends BaseClass{
 			e.printStackTrace();
 			System.out.println("Work in Dev");
 			System.out.println("Work done Dev");
+			System.out.println("work in QA");
+			System.out.println("work Done QA");
+
+			
 		}
 		
 	}
